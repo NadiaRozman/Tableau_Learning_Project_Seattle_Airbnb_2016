@@ -66,7 +66,7 @@ Through this project, I practiced:
 
 ### ✨ Created by Nadia Rozman | October 2025
 
-**📂 Project Structure:**
+**📂 Project Structure**
 ```
 Tableau_Learning_Project_Seattle_Airbnb_2016/
 |
@@ -81,7 +81,7 @@ Tableau_Learning_Project_Seattle_Airbnb_2016/
 └── README.md                              
 ```
 
-**🔗 Connect with me:**
+**🔗 Connect with me**
 - GitHub: [@NadiaRozman](https://github.com/NadiaRozman)
 - LinkedIn: [Nadia Rozman](https://www.linkedin.com/in/nadia-rozman-4b4887179/)
 
