@@ -78,7 +78,7 @@ Tableau_Learning_Project_Seattle_Airbnb_2016/
 │
 ├── Seattle_Airbnb_Analysis_2016.twbx  # Tableau workbook  
 |                      
-└── README.md                              
+└── README.md                          # Project overview (this file)   
 ```
 
 **🔗 Connect with me**
