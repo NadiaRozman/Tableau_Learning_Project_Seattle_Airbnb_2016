@@ -71,14 +71,14 @@ Through this project, I practiced:
 Tableau_Learning_Project_Seattle_Airbnb_2016/
 |
 ├── images/
-│   └── seattle_airbnb_dashboard.png   # Dashboard screenshot 
+│   └── seattle_airbnb_dashboard.png    
 │
 ├── data/
-│   └── README.md                      # Dataset instructions
+│   └── README.md                      
 │
-├── Seattle_Airbnb_Analysis_2016.twbx  # Tableau workbook  
+├── Seattle_Airbnb_Analysis_2016.twbx    
 |                      
-└── README.md                          # Project overview (this file)   
+└── README.md                            
 ```
 
 **🔗 Connect with me**
